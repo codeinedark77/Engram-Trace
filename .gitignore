@@ -9,3 +9,6 @@ dist/
 .mypy_cache/
 .coverage
 empire.db
+*.db
+*.jsonl
+.DS_Store
